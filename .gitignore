@@ -133,3 +133,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Android_ASTC
+Binaries
+Intermediate
+Saved
