@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MainLight
+  - UICamera
+  - water
+  - concrete
+  - dirt
+  - wood
+  - PW - Prop
+  - PW - Building
+  - Synty Tree
+  - Synty Medium Farm
+  - Synty Small Farm
+  - PW - Nature
   layers:
   - Default
   - TransparentFX
@@ -13,17 +25,17 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Vehicle
+  - Wheel
+  - Road
+  - Ground
+  - Stone
+  - Metal
+  - ColliderOnlyForWheel
+  - DamageObject
+  - ConnectTrailer
+  - Plastic
+  - IgnoreVehicleCollision
   - 
   - 
   - 
