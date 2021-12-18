@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -19,8 +19,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "DatasmithGLTFImporter",
-			"Enabled": true
+			"Name": "DatasmithContent",
+			"Enabled": false
 		}
 	]
 }

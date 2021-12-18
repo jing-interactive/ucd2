@@ -1,0 +1,1 @@
+"D:\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe" %~dp0\ThirdPerson.uproject -tracehost=127.0.0.1 -trace=gpu,cpu,frame,log,bookmark,loadtime,file,stats,counters,memory -statnamedevents
