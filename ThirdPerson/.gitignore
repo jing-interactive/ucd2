@@ -40,3 +40,5 @@ Plugins/slua_unreal/Content
 Plugins/slua_unreal/External
 Plugins/slua_unreal/Intermediate
 Plugins/slua_unreal/Library
+
+Content/Paragon*
